@@ -1,0 +1,55 @@
+{
+	"name": "D E P O R T E S",
+	"author": "actualizado 02-10-2024 16:06",
+	"image": "https://i.pinimg.com/236x/6e/22/a4/6e22a430cbba09dd53b4b64933d111ce.jpg",
+	"url": "https://freenote.biz/raw/nlholbl91n",
+	"stations": [
+		{
+      "name": "Dazn F1 🇪🇸",
+        "info":"[DAZN F1]",
+        "image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",
+        "url": "https://dokko1new.koskoros.ru/dokko1/premium537/mono.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://cookiewebplay.xyz/",
+        "online":"true",
+        "isHost":""
+        },
+
+{
+			"name": "PRUEBA",
+			"image": "https://www.doorsecurity.es/wp-content/uploads/2017/10/ico-instalaciones-sin-obras.png",
+			"url": "https://proyectoxax1.000webhostapp.com/get_url_stream_1.php"
+		}
+	],
+	"groups": [
+		{
+			"name": "CHUKY DEPORTES",
+			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"url": "https://raw.githubusercontent.com/chukyvaliente/ChukyDeport/refs/heads/main/ChukyDeport"
+		},
+		{
+			"name": "zOna DepORtivA",
+			"image": "https://i.postimg.cc/yNv2xMpq/logo-zona-deportiva-2.png",
+			"url": "https://af1c1onados.vercel.app/Zona.Deportiva.w3u",
+			"info": "",
+			"import": false
+		},
+		{
+			"name": "EL SUPREMO DEPORTES",
+			"image": "https://i.postimg.cc/CM7p0MJG/index.jpg",
+			"url": "https://bit.ly/WiseSportMenu"
+		},
+		{
+			"name": "AFICIONADOS  DEPORTES",
+			"image": "https://giffiles.alphacoders.com/211/211426.gif",
+			"url": "https://af1c1onados.vercel.app/af1cionados.w3u"
+		},
+		{
+			"name": "IPTV",
+			"image": "https://i.postimg.cc/02CXhJ8P/IPTV-new.png",
+			"url": "https://rentry.co/hmwx7c9d/raw"
+		}
+
+
+	]
+}
