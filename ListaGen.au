@@ -1,0 +1,31 @@
+{
+    "name": "Lista MANU 3",
+    "author": "Auto-actualizada",
+    "image": "https://static.vecteezy.com/system/resources/previews/002/515/449/non_2x/live-digital-play-button-internet-media-blue-design-free-vector.jpg",
+    "info": "",
+    "url": "  https://freenote.biz/hqe7gkocwc",
+    
+    "groups": [
+        #--------------- 
+        {
+            "name": "Deportes",
+            "image": "https://sites.google.com/site/ampamercedariasbackup3/_/rsrc/1472774287862/deportes-2010-11/ICO_deportes.jpg",
+            "url": "https://raw.githubusercontent.com/xax2/Listaxax/refs/heads/main/ListaDeportes.au"
+            
+        },
+
+        {
+            "name": "MOVlSTAR TV",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Movistar_2020_logo.svg/120px-Movistar_2020_logo.svg.png",
+            "url": "https://rentry.co/tq2oq/raw"
+            
+        },        
+    {
+        "name": "CINE",
+        "image": "https://img2.freepng.es/20180320/hyq/kisspng-hollywood-film-cinema-computer-icons-movie-download-ico-5ab0ef0f1bde04.9660177915215449751142.jpg",
+        "url": "https://rentry.co/3euxr/raw"
+
+    }
+       #--------------- 
+    ]
+}
