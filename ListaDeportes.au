@@ -23,8 +23,7 @@
         "referer" : "https://cookiewebplay.xyz/",
         "online":"true",
         "isHost":""
-        },
-			{
+        },			{
         "name": "LaLiga Tv 🇪🇸",
         "info":"",
         "image": "https://i.postimg.cc/0Q5CtMNJ/La-Liga-TV-Logo.png",
@@ -34,7 +33,29 @@
         "online":"true",
         "embed": "",
         "isHost":""
+        },		{
+        "name": "LaLiga Tv 🇪🇸",
+        "info":"",
+        "image": "https://i.postimg.cc/0Q5CtMNJ/La-Liga-TV-Logo.png",
+        "url": "https://mycdn3.aws11-cdn-livestream-eu.site/hls/UEnKvE0m3zWPsyeo.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://gamerushplay.cfd/",
+        "online":"true",
+        "embed": "",
+        "isHost":""
         },
+			{
+        "name": "LaLiga Tv 🇪🇸",
+        "info":"",
+        "image": "https://i.postimg.cc/0Q5CtMNJ/La-Liga-TV-Logo.png",
+        "url": "https://cdn9.aws7-cdn-livestream-eu.online/hls/UEnKvE0m3zWPsyeo.m3u8",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://gamerushplay.cfd/",
+        "online":"true",
+        "embed": "",
+        "isHost":""
+        },
+
 {
         "name": "Dazn LaLiga 🇪🇸",
         "info":"",
