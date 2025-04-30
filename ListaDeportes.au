@@ -6,10 +6,10 @@
 	"stations": [
 
 {
-      "name": "R. MADRID -ARSENAL",
-        "info":"R. MADRID -ARSENAL",
+      "name": "BARCELOA -",
+        "info":"BARCELOA",
         "image": "",
-        "url": "https://mycdn11.aws10-cdn-livestream-eu.site/hls/playlist6.m3u8",
+        "url": "https://zekonew.newkso.ru/zeko/premium435/mono.m3u8",
         #"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://pelistv.andresconv.online/",
         "online":"true",
