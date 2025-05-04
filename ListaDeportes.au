@@ -6,30 +6,83 @@
 	"stations": [
 
 {
-      "name": "BARCELONA -",
-        "info":"BARCELONA",
+      "name": "LA LIG@",
+        "info":"LA LIG@",
         "image": "",
-        "url": "https://zekonew.newkso.ru/zeko/premium435/mono.m3u8",
-        #"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://cookiewebplay.xyz/",
-        "online":"true",
-        "isHost":""
-        },
-    {
-      "name": "BARCELONAL",
-        "info":"BARCELONA",
-        "image": "",
-        "url": "https://aws10-cdn-livestream-eu.site/hls/stream_live7.m3u8",
+        "url": "https://aws10-cdn-livestream-eu.site/hls/stream_live_22.m3u8",
         #"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://pelistv.andresconv.online/",
         "online":"true",
         "isHost":""
         },
+    {
+      "name": "LA LIG@",
+        "info":"LA LIG@",
+        "image": "",
+        "url": "https://aws7-cdn-livestream-eu.online/hls/stream_live_22.m3u8",
+        #"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://pelistv.andresconv.online/",
+        "online":"true",
+        "isHost":""
+        },
+{
+      "name": "LA LIG@",
+        "info":"LA LIG@",
+        "image": "",
+        "url": "https://aws7-cdn-livestream-eu.online/hls/stream_live_22.m3u8",
+        #"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://pelistv.andresconv.online/",
+        "online":"true",
+        "isHost":""
+        },
+{
+      "name": "LA LIG@",
+        "info":"LA LIG@",
+        "image": "",
+        "url": "https://embed-cloudfront.wistia.com/deliveries/5d08c109d797c3b1bfe1ed55e996d82080e87610.m3u8",
+        #"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://pelistv.andresconv.online/",
+        "online":"true",
+        "isHost":""
+        },
+{
+      "name": "LA LIG@",
+        "info":"LA LIG@",
+        "image": "",
+        "url": "https://stream.andrescloudflare.site/hls/stream.m3u8",
+        #"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://pelistv.andresconv.online/",
+        "online":"true",
+        "isHost":""
+        },
+{
+      "name": "LA LIG@",
+        "info":"LA LIG@",
+        "image": "",
+        "url": "https://d334a0433b0e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.147997147764.channel.kUEehpupsauL.m3u8",
+        #"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://pelistv.andresconv.online/",
+        "online":"true",
+        "isHost":""
+        },
+{
+      "name": "LA LIG@",
+        "info":"LA LIG@",
+        "image": "",
+        "url": "https://buny1.undertok.xyz/hls/stream.m3u8",
+        #"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://pelistv.andresconv.online/",
+        "online":"true",
+        "isHost":""
+        },
+
+
+
 		{
       "name": "Dazn F1 🇪🇸",
         "info":"[DAZN F1]",
         "image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",
-        "url": "https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8",
+        "url": "https://cdn2.aws7-cdn-livestream-eu.online/hls/ffU38di_u348240mNNY934.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://cookiewebplay.xyz/",
         "online":"true",
