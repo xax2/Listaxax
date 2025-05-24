@@ -88,6 +88,22 @@
         "online":"true",
         "isHost":""
         },
+    {
+        "id": "test01",
+        "videoUri": "https://tinworld-myproxy.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8",
+        "drmKeyId": "",
+        "drmKey": "",
+        "type": "m3u8",
+        "referer": "https://alldownplay.xyz",
+        "userAgent": "",
+        "subtitleUri": "",
+        "title": "Dazn F1 (dtvlivegratis)",
+        "fullTitle": "🇪🇸 Dazn F1 Canal en M3u8",
+        "image_16_9": "https://image.discovery.indazn.com/ca/v2/ca/image?id=y44drrjcqtxa18g3arxjz58ge_image-header_pEs_1723117975000&quality=70",
+        "image_2_3": "https://static.wikia.nocookie.net/logopedia/images/c/cc/DAZN_F1.svg",
+        "categories": "Sports",
+        "country": "España"
+    },
 {
       "name": "Dazn F1 🇪🇸",
         "info":"[DAZN F1]",
