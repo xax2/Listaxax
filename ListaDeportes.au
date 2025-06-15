@@ -112,6 +112,40 @@
         "url": "https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://lefttoplay.xyz/",
+        "Origin": "https://lefttoplay.xyz",
+        "online":"true",
+        "isHost":""
+        },
+{
+      "name": "Dazn F1 🇪🇸 *",
+        "info":"[DAZN F1]",
+        "image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",
+        "url": "https://stream196tp.com/global2.php?stream=espndeportes",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://radamel.icu/",
+        "Origin": "https://radamel.icu/",
+        "online":"true",
+        "isHost":""
+        },
+{
+      "name": "Dazn F1 🇪🇸 ",
+        "info":"[DAZN F1]",
+        "image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",
+        "url": "https://14c51.crackstreamslivehd.com/global/foxsportspremium/index.m3u8?token=57a34b29081260e2a7ad5623e3011104a4342dae-08-1750053629-1749999629&ip=62.233.57.94",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://stream196tp.com/",
+        "Origin": "https://stream196tp.com/",
+        "online":"true",
+        "isHost":""
+        },
+{
+      "name": "Dazn F1 🇪🇸 ",
+        "info":"[DAZN F1]",
+        "image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",
+        "url": "https://print.crackstreamslivehd.com/global/espndeportes/index.m3u8?token=9f5ce8ec331b4782e033e1a568de93b26b59ee52-e2-1750053561-1749999561&ip=62.233.57.94",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer" : "https://stream196tp.com/",
+        "Origin": "https://stream196tp.com/",
         "online":"true",
         "isHost":""
         },
