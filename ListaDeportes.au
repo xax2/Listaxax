@@ -16,78 +16,7 @@
         "isHost":""
         },
 
-{
-      "name": "LA LIG@",
-        "info":"LA LIG@",
-        "image": "",
-        "url": "https://aws10-cdn-livestream-eu.site/hls/stream_live_22.m3u8",
-        #"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://pelistv.andresconv.online/",
-        "online":"true",
-        "isHost":""
-        },
 
-
-    {
-      "name": "LA LIG@",
-        "info":"LA LIG@",
-        "image": "",
-        "url": "https://aws7-cdn-livestream-eu.online/hls/stream_live_22.m3u8",
-        #"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://pelistv.andresconv.online/",
-        "online":"true",
-        "isHost":""
-        },
-{
-      "name": "LA LIG@",
-        "info":"LA LIG@",
-        "image": "",
-        "url": "https://aws7-cdn-livestream-eu.online/hls/stream_live_22.m3u8",
-        #"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://pelistv.andresconv.online/",
-        "online":"true",
-        "isHost":""
-        },
-{
-      "name": "LA LIG@",
-        "info":"LA LIG@",
-        "image": "",
-        "url": "https://embed-cloudfront.wistia.com/deliveries/5d08c109d797c3b1bfe1ed55e996d82080e87610.m3u8",
-        #"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://pelistv.andresconv.online/",
-        "online":"true",
-        "isHost":""
-        },
-{
-      "name": "LA LIG@",
-        "info":"LA LIG@",
-        "image": "",
-        "url": "https://stream.andrescloudflare.site/hls/stream.m3u8",
-        #"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://pelistv.andresconv.online/",
-        "online":"true",
-        "isHost":""
-        },
-{
-      "name": "LA LIG@",
-        "info":"LA LIG@",
-        "image": "",
-        "url": "https://d334a0433b0e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.147997147764.channel.kUEehpupsauL.m3u8",
-        #"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://pelistv.andresconv.online/",
-        "online":"true",
-        "isHost":""
-        },
-{
-      "name": "LA LIG@",
-        "info":"LA LIG@",
-        "image": "",
-        "url": "https://buny1.undertok.xyz/hls/stream.m3u8",
-        #"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://pelistv.andresconv.online/",
-        "online":"true",
-        "isHost":""
-        },
     {
         "id": "test01",
         "videoUri": "https://tinworld-myproxy.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8",
@@ -106,124 +35,14 @@
     },
 
 {
-      "name": "Dazn F1 🇪🇸 **",
-        "info":"[DAZN F1]",
-        "image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",
-        "url": "https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8",
+        "name": "M LigCampeoneS",
+        "info": "[Tele]",
+        "online": "true",
+        "image": "https://i.postimg.cc/5tWWqrXR/Liga-de-Campeones-Logo.png",
+        "url": "https://www.telegratishd.com/movistar-liga-de-campeones-en-vivo.html",
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://forcedtoplay.xyz/",
-        "Origin": "https://forcedtoplay.xyz/",
-        "online":"true",
-        "isHost":""
+        "isHost": "true"
         },
-{
-      "name": "Dazn F1 🇪🇸 **",
-        "info":"[DAZN F1]",
-        "image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",
-        "url": "https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OTQ5MWM3M2RmN2E0LTJhMmEtYTNjNC1mMmMyLWFlMjEyZmYz/master.m3u8?md5=aa4agKUmDt61U1SyY2kGFw&expires=1751150089&t=1751106889",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : " https://veplay.top/",
-        "Origin": " https://veplay.top/",
-        "online":"true",
-        "isHost":""
-        },
-
-
-{
-      "name": "Dazn F1 🇪🇸 *",
-        "info":"[DAZN F1]",
-        "image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",
-        "url": "https://stream196tp.com/global2.php?stream=espndeportes",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://radamel.icu/",
-        "Origin": "https://radamel.icu/",
-        "online":"true",
-        "isHost":""
-        },
-{
-      "name": "Dazn F1 🇪🇸 ",
-        "info":"[DAZN F1]",
-        "image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",
-        "url": "https://14c51.crackstreamslivehd.com/global/foxsportspremium/index.m3u8?token=57a34b29081260e2a7ad5623e3011104a4342dae-08-1750053629-1749999629&ip=62.233.57.94",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://stream196tp.com/",
-        "Origin": "https://stream196tp.com/",
-        "online":"true",
-        "isHost":""
-        },
-{
-      "name": "Dazn F1 🇪🇸 ",
-        "info":"[DAZN F1]",
-        "image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",
-        "url": "https://print.crackstreamslivehd.com/global/espndeportes/index.m3u8?token=9f5ce8ec331b4782e033e1a568de93b26b59ee52-e2-1750053561-1749999561&ip=62.233.57.94",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://stream196tp.com/",
-        "Origin": "https://stream196tp.com/",
-        "online":"true",
-        "isHost":""
-        },
-{
-      "name": "Dazn F1 🇪🇸",
-        "info":"[DAZN F1]",
-        "image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",
-        "url": "https://vavoo.to/play/3129220252/index.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "",
-        "online":"true",
-        "isHost":""
-        },
-{
-      "name": "Dazn F1 🇪🇸",
-        "info":"[DAZN F1]",
-        "image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",
-        "url": "https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YTZmMTYxZGZiYTFkLWYyMmItYjVlNC05NTg3LWUzNzcxZWM1/master.m3u8?md5=s5dnBlw2hdxDofE2dLQguQ&expires=1747611862",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://www.vidembed.re/",
-        "online":"true",
-        "isHost":""
-        },
-{
-      "name": "Dazn F1 🇪🇸",
-        "info":"[DAZN F1]",
-        "image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",
-        "url": "https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://cookiewebplay.xyz/",
-        "online":"true",
-        "isHost":""
-        },
-
-		{
-      "name": "Dazn F1 🇪🇸",
-        "info":"[DAZN F1]",
-        "image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",
-        "url": "https://cdn2.aws7-cdn-livestream-eu.online/hls/ffU38di_u348240mNNY934.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://cookiewebplay.xyz/",
-        "online":"true",
-        "isHost":""
-        },
-{
-        "name": "Dazn 1 🇪🇸*",
-        "info":"",
-        "image": "https://i.postimg.cc/nVs7ttQ9/DAZN-1-Logo.png",
-        "url": "https://webdi.openhd.lol/lb/premium426/index.m3u8?",
-        "userAgent": "REDLINECLIENT",
-        "referer" : "https://widevine.licenses4.me/&User-agent=REDLINECLIENT",
-        "online":"true",
-        "isHost":""
-        },	
-{
-        "name": "Dazn 1 🇪🇸*",
-        "info":"",
-        "image": "https://i.postimg.cc/nVs7ttQ9/DAZN-1-Logo.png",
-        "url": "https://windnew.newkso.ru/wind/premium445/mono.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://forcedtoplay.xyz/",
-        "Origin": "https://forcedtoplay.xyz/",
-        "online":"true",
-        "isHost":""
-        },	
 
 
 {
