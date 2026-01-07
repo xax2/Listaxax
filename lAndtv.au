@@ -1,1 +1,34 @@
-{ "name":"AndresTV", "image":"https://i.postimg.cc/1tmMDh23/Adeptv.jpg", "stations": [{"name":" Rayo Vallecano vs. FC Barcelona por LaLiga EA Sports...", "url":"https://aws10-cdn-livestream-eu.site/hls/keystream-69.m3u8", "referer":"https://pelistv.andresconv.online/", "online":"true", "isHost":"" },{"name":" Rayo Vallecano vs. FC Barcelona por LaLiga EA Sports...", "url":"https://aws9-cdn-livestream-eu.online/hls/keystream-69.m3u8", "referer":"https://pelistv.andresconv.online/", "online":"true", "isHost":"" }, {"name":" Rayo Vallecano vs. FC Barcelona por LaLiga EA Sports...", "url":"https://aws10-cdn-livestream-eu.site/hls/keystream-69.m3u8", "referer":"https://pelistv.andresconv.online/", "online":"true", "isHost":"" },{"name":" Rayo Vallecano vs. FC Barcelona por LaLiga EA Sports...", "url":"https://aws9-cdn-livestream-eu.online/hls/keystream-69.m3u8", "referer":"https://pelistv.andresconv.online/", "online":"true", "isHost":"" }] }
+{
+	"name": "AndresTV",
+	"image": "https://i.postimg.cc/1tmMDh23/Adeptv.jpg",
+	"stations": [
+		{
+			"name": " evento1",
+			"url": "https://aws10-cdn-livestream-eu.site/hls/keystream-69.m3u8",
+			"referer": "https://pelistv.andresconv.online/",
+			"online": "true",
+			"isHost": ""
+		},
+		{
+			"name": " evento 2",
+			"url": "https://aws9-cdn-livestream-eu.online/hls/keystream-69.m3u8",
+			"referer": "https://pelistv.andresconv.online/",
+			"online": "true",
+			"isHost": ""
+		},
+		{
+			"name": " evento 3",
+			"url": "https://aws10-cdn-livestream-eu.site/hls/keystream-69.m3u8",
+			"referer": "https://pelistv.andresconv.online/",
+			"online": "true",
+			"isHost": ""
+		},
+		{
+			"name": " evento 4",
+			"url": "https://aws9-cdn-livestream-eu.online/hls/keystream-85.m3u8",
+			"referer": "https://pelistv.andresconv.online/",
+			"online": "true",
+			"isHost": ""
+		}
+	]
+}
