@@ -16,10 +16,10 @@
         "isHost":""
         },
 {
-      "name": "ATv evento ",
+      "name": "ATv evento",
         "info":"---",
-        "image": "",
-        "url": "https://aws10-cdn-livestream-eu.site/hls/keystream-85.m3u8",
+        "image": "https://i.postimg.cc/1tmMDh23/Adeptv.jpg",
+        "url": "https://round-robin.site/assign",
         #"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer" : "https://delta.andresconv.online/",
         "online":"true",
@@ -181,12 +181,13 @@
 			"name": "Lista DEPORTES",
 			"image": "",
 			"url": "https://pastebin.com/raw/dnGHA9qb"
-		},
-		{
-			"name": "A.DeportesTV", 
-			"image": "https://www.doorsecurity.es/wp-content/uploads/2017/10/ico-instalaciones-sin-obras.png",
-			"url": "https://xaxproyect001.infinityfree.me/rrr/Atv2.php"
 		}
+#,
+		#{
+		#	"name": "A.DeportesTV", 
+		#	"image": "https://www.doorsecurity.es/wp-content/uploads/2017/10/ico-instalaciones-sin-obras.png",
+		#	"url": "https://xaxproyect001.infinityfree.me/rrr/Atv2.php"
+		#}
 
 
 	]
