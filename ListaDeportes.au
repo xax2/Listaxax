@@ -147,10 +147,11 @@
 		}
 	],
 	"groups": [
+
 		{
-			"name": "CHUKY DEPORTES",
-			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
-			"url": "https://raw.githubusercontent.com/chukyvaliente/ChukyDeport/refs/heads/main/ChukyDeport"
+			"name": "RojaD", 
+			"image": "https://cdn.brandfetch.io/idphtbxkYh/w/129/h/129/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B",
+            "url":"https://phpsample2.wasmer.app/Prltv.php"
 		},{
 			"name": "A.DepTV Evento", 
 			"image": "https://i.postimg.cc/1tmMDh23/Adeptv.jpg",
@@ -185,6 +186,11 @@
 			"name": "Lista DEPORTES",
 			"image": "",
 			"url": "https://pastebin.com/raw/dnGHA9qb"
+		},
+{
+			"name": "CHUKY DEPORTES",
+			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+			"url": "https://raw.githubusercontent.com/chukyvaliente/ChukyDeport/refs/heads/main/ChukyDeport"
 		}
 #,
 		#{
