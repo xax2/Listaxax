@@ -9,7 +9,7 @@
       "name": "TNT Sports",
       "info": "TNT vía Flask",
       "image": "",
-      "url": "http://192.168.1.42:8080/play?url=https://hesgoal-tv.ru/player/hoca/75&name=TNT",
+      "url": "http://192.168.1.43:8080/play?url=https://hesgoal-tv.ru/player/hoca/75&name=TNT",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
       "referer": "",
       "online": "true",
