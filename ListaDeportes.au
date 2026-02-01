@@ -185,8 +185,8 @@
 		},
 		{
 			"name": "Lista DEPORTES",
-			"image": "",
-			"url": "https://pastebin.com/raw/dnGHA9qb"
+			"image": "https://png.pngtree.com/png-vector/20210710/ourmid/pngtree-sports-icon-design-with-human-shape-running-png-image_3583517.jpg",
+			"url": "http://192.168.1.43:8080/list.json"
 		},
 		{
 			"name": "FUTBOL ADICTOS",
