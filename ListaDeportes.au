@@ -15,6 +15,16 @@
   "online": "true",
   "isHost": ""
 },
+{
+  "name": "TNT Sports",
+  "info": "TNT d",
+  "image": "",
+  "url": "https://d12.epicquesthero.com:999/hls/wsmkmlfeed75.m3u8?md5=XaSFrSWryuIdJQnFFz9r9w&expires=1769954198",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+  "referer": "https://hoca6.com/",
+  "online": "true",
+  "isHost": ""
+},
 
 
 
