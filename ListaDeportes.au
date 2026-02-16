@@ -14,16 +14,13 @@
   "referer": "https://bolaloca.my/",
   "isHost": "true"
 },
-{
-  "name": "TNT Sports",
-  "info": "TNT d",
-  "image": "",
-  "url": "https://y4mpwzd7.12703830.net:8443/hls/g6auvbu66y.m3u8?s=wXbSVtHwUzYPNXg3VwdN_g&e=1771266382 ",
-  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-  "referer": "https://hoca6.com/",
-  "online": "true",
-  "isHost": ""
-},
+        {
+            "name": "ESPN2",
+            "url": "https://toneassertive.net/embed/pu1sgwiscq0e",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "referer": "https://bolaloca.my/",
+            "isHost": "true"
+        },
 
 
 
