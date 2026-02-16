@@ -6,10 +6,10 @@
 	"stations": [
 
 {
-  "name": "TNT Sports",
-  "info": "TNT vía Flask",
+  "name": "TNT Sports bolaloca",
+  "info": "TNT bolaloca",
   "image": "",
-  "url": "http://192.168.1.43:8080/play?url=https://hesgoal-tv.ru/player/hoca/75&name=TNT",
+  "url": "https://bolaloca.my/player/3/97",
   "userAgent": "",
   "referer": "",
   "online": "true",
