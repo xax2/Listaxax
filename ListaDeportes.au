@@ -6,13 +6,12 @@
 	"stations": [
 
 {
-  "name": "TNT Sports bolalocaa",
+  "name": "TNT Sports bolalocaa1",
   "info": "TNT bolaloca",
   "image": "",
   "url": "https://y4mpwzd7.12703830.net:8443/hls/g6auvbu66y.m3u8?s=1JpgfXy5adZX1fwODcUnQA&e=1771266532",
   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
   "referer": "https://toneassertive.net/",
-  "online": "true",
   "isHost": "true"
 },
 {
