@@ -14,7 +14,15 @@
         "isHost": "false"
         },
 
-
+{
+        "name": "L.cammpeones",
+        "info": "manu",
+        "online": "true",
+        "image": "",
+        "url": "https://lefttoplay.xyz/crv.php?id=primacampeones", 
+        "referer": "https://maxsport.one/",
+        "isHost": "true"
+        },
 
     {
         "id": "test01",
