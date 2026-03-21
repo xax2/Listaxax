@@ -15,17 +15,7 @@
         "isHost": "false"
         },
 
-{
-        "name": "L.cammpeones",
-        "info": "manu",
-        "online": "true",
-        "image": "",
-        "url": "https://maxsport.one/canal1.php?id=primacampeones", 
-        "referer": "https://maxsport.one/",
-        "embed": "true",
-        "isHost": ""
 
-        },
 
     {
         "id": "test01",
@@ -44,100 +34,6 @@
         "country": "España"
     },
 
-{
-        "name": "M LigCampeoneS",
-        "info": "[Tele]",
-        "online": "true",
-        "image": "https://i.postimg.cc/5tWWqrXR/Liga-de-Campeones-Logo.png",
-        "url": "https://www.telegratishd.com/movistar-liga-de-campeones-en-vivo.html",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "isHost": "true"
-        },
-
-
-{
-        "name": "SKY LaLiga ",
-        "info":"",
-        "image": "https://i.postimg.cc/0Q5CtMNJ/La-Liga-TV-Logo.png",
-        "url": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=37_",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://www.tvporinternet2.com",
-        "online":"true",
-        "embed": "",
-        "isHost":""
-        },		{
-        "name": "ESPNpremium",
-        "info":"",
-        "image": "",
-        "url": "https://windnew.newkso.ru/wind/premium387/mono.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://gamerushplay.cfd/",
-        "online":"true",
-        "embed": "",
-        "isHost":""
-        },
-			{
-        "name": "ESPN1",
-        "info":"",
-        "image": "",
-        "url": "https://wikihznew.newkso.ru/wikihz/wiki55/mono.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://gamerushplay.cfd/",
-        "online":"true",
-        "embed": "",
-        "isHost":""
-        },
-
-{
-        "name": "mLIGA LaLiga",
-        "info":"mLIGA",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/250px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
-        "url": "https://hesgoal-tv.ru/player/hoca/49",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://1freelivetvone.xyz/",
-                    "embed": "true",
-                    "isHost": ""
-        },
-{
-        "name": "Dazn 1",
-        "info":"",
-        "image": "https://cdn.sincroguia.tv/uploads/images/e/q/k/45x45xdazn1.jpg.pagespeed.ic.MVSBIooKK4.webp",
-        "url": "https://yeahstreams.com/plus/stream-445.php ",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://footyhunterhd.shop/",
-        "online":"true",
-        "isHost":""
-        },
-{
-        "name": "Dazn 1",
-        "info":"",
-        "image": "https://cdn.sincroguia.tv/uploads/images/e/q/k/45x45xdazn1.jpg.pagespeed.ic.MVSBIooKK4.webp",
-        "url": "https://footyhunterhd.shop/mpd/tvfto.php?sTLd?id=445",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://tvcstreams.pl/",
-        "online":"true",
-        "isHost":""
-        },
-{
-        "name": "Dazn 1",
-        "info":"",
-        "image": "https://cdn.sincroguia.tv/uploads/images/e/q/k/45x45xdazn1.jpg.pagespeed.ic.MVSBIooKK4.webp",
-        "url": "https://windnew.newkso.ru/wind/premium445/mono.m3u8",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://epicplayplay.cfd/",
-        "online":"true",
-        "isHost":""
-        },
-{
-        "name": "Dazn 1",
-        "info":"",
-        "image": "https://cdn.sincroguia.tv/uploads/images/e/q/k/45x45xdazn1.jpg.pagespeed.ic.MVSBIooKK4.webp",
-        "url": "https://epicplayplay.cfd/premiumtv/yeahstreams.php?id=445",
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        "referer" : "https://yeahstreams.com/",
-        "online":"true",
-        "isHost":""
-        },
 
 {
 			"name": "PRUEBA",
@@ -163,7 +59,11 @@
              "url":"https://phpsample2.wasmer.app/Atv.php"
             #"url":"https://xaxproyect001.infinityfree.me/rrr/Atv.php"
 		},
-
+{
+			"name": "B.loca",
+			"image": "https://cdn-icons-png.freepik.com/512/53/53264.png",
+			"url": "https://phpsample2.wasmer.app/bloc.php"
+		},
 		{
 			"name": "zOna DepORtivA",
 			"image": "https://i.postimg.cc/yNv2xMpq/logo-zona-deportiva-2.png",
