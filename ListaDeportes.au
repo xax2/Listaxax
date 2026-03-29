@@ -64,6 +64,12 @@
 			"image": "https://cdn-icons-png.freepik.com/512/53/53264.png",
 			"url": "https://phpsample2.wasmer.app/bloc.php"
 		},
+{
+			"name": "sportz_online",
+			"image": "https://cdn-icons-png.freepik.com/512/53/53264.png",
+			"url": "https://phpsample2.wasmer.app/sportz_online.php"
+		},
+
 		{
 			"name": "zOna DepORtivA",
 			"image": "https://i.postimg.cc/yNv2xMpq/logo-zona-deportiva-2.png",
