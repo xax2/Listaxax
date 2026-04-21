@@ -101,8 +101,21 @@
 {
 			"name": "CHUKY DEPORTES",
 			"image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
-			"url": "https://raw.githubusercontent.com/chukyvaliente/pack-wise-deportchuky/refs/heads/main/Deportes.w3u"
+			"url": "https://raw.githubusercontent.com/tiriti1/tiri/main/GROUP%20CHUKYHOOD.w3u"
+		},
+{
+			"name": "ACE1",
+			"image": "",
+			"url": "https://raw.githubusercontent.com/albertfg97/AceStreamChannels/refs/heads/main/Canales.m3u"
+		},
+{
+			"name": "ACE2",
+			"image": "",
+			"url": "https://raw.githubusercontent.com/elchuquelas/lista/refs/heads/main/lista.m3u"
 		}
+
+
+
 #,
 		#{
 		#	"name": "A.DeportesTV", 
