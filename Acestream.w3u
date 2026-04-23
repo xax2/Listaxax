@@ -1,0 +1,29 @@
+{
+"name": "AC3STR3AM L1G@",
+"author": "",
+"url": "",
+"image": "https://cutt.ly/GtbwFLlW",
+"groups":
+      [
+
+        {
+          "name": "MOVISTAR LaLiga (1080)(**)",
+          "info": "[89947]",
+          "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+          "url": "acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947"
+        },
+        {
+          "name": "DAZN LaLiga (1080)(*)",
+          "info": "[7d889]",
+          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+          "url": "acestream://cc108ae39f92c48f6c946763047bd1c9b7b7d889"
+        },
+        {
+          "name": "M. Liga de Campeones 1 (1080)(*)",
+          "info": "[86920]",
+          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920"
+        }
+
+	]
+}
