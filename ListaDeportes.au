@@ -43,11 +43,17 @@
 	],
 	"groups": [
 
-		{
-			"name": "RojaD", 
-			"image": "https://cdn.brandfetch.io/idphtbxkYh/w/129/h/129/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B",
-            "url":"https://phpsample2.wasmer.app/Prltv.php"
-		},{
+		#{
+	#		"name": "RojaD", 
+		#	"image": "https://cdn.brandfetch.io/idphtbxkYh/w/129/h/129/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B",
+        #    "url":"https://phpsample2.wasmer.app/Prltv.php"
+		#},
+{
+			"name": "AC3STR3AM L1G@",
+			"image": "https://i.postimg.cc/NLqjVwMQ/horus.png",
+			"url": "https://raw.githubusercontent.com/xax2/Listaxax/refs/heads/main/Acestream.au"
+		},
+{
 			"name": "A.DepTV Evento", 
 			"image": "https://i.postimg.cc/1tmMDh23/Adeptv.jpg",
             "url":"https://phpsample2.wasmer.app/Atv3.php"
@@ -112,12 +118,8 @@
 			"name": "ACE2",
 			"image": "",
 			"url": "https://raw.githubusercontent.com/elchuquelas/lista/refs/heads/main/lista.m3u"
-		},
-{
-			"name": "AC3STR3AM L1G@",
-			"image": "https://i.postimg.cc/NLqjVwMQ/horus.png",
-			"url": "https://raw.githubusercontent.com/xax2/Listaxax/refs/heads/main/Acestream.au"
 		}
+
 
  
 
