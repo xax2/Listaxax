@@ -12,6 +12,12 @@
           "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
           "url": "acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947"
         },
+{
+          "name": "MOVISTAR LaLiga (1080)",
+          "info": "PLAYER EXTERNO",
+          "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+          "url": "mpds://zap-live1-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd?ID=JiA7fi8jbnU6YiB0NnJheGdUU1V0cT1yKCM0IGk3JnJmIDF4eVpXSnB4b3AtJGNwPGR8d2omNXA7AAcKKX9od393Z3w7YXMgZg"
+        },
         {
           "name": "DAZN LaLiga (1080)(*)",
           "info": "[7d889]",
