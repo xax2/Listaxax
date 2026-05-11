@@ -6,11 +6,11 @@
 "stations": 
       [
 
-       {
+        {
           "name": "MOVISTAR LaLiga (1080)(**)",
-          "info": "[89947]",
+          "info": "[e9f74]",
           "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
-          "url": "acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947"
+          "url": "acestream://4b528d10eaad747ddf52251206177573ee3e9f74"
         },
 {
           "name": "MOVISTAR LaLiga (1080)",
