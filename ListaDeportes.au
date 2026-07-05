@@ -18,13 +18,13 @@
 
 
     {
-        "id": "test01",
-        "videoUri": "https://tinworld-myproxy.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8",
+        "id": "F1",
+        "videoUri": "https://vp9kzt03excx.78655371.net:8443/hls/2twhx.m3u8?s=X92XP-yg4heVzTy5sQOuyA&e=1783284825",
         "drmKeyId": "",
         "drmKey": "",
         "type": "m3u8",
-        "referer": "https://alldownplay.xyz",
-        "userAgent": "",
+        "referer": "https://proveouter.net/",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "subtitleUri": "",
         "title": "Dazn F1 (dtvlivegratis)",
         "fullTitle": "🇪🇸 Dazn F1 Canal en M3u8",
