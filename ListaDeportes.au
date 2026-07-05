@@ -75,7 +75,8 @@
 {
 			"name": "B.loca",
 			"image": "https://cdn-icons-png.freepik.com/512/53/53264.png",
-			"url": "https://phpsample2.wasmer.app/bloc.php"
+			#"url": "https://phpsample2.wasmer.app/bloc.php"
+            "url":  "https://raw.githubusercontent.com/xax2/Listaxax/refs/heads/main/bloca.p"
 		},
 {
 			"name": "sportz_online",
