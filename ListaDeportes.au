@@ -56,13 +56,13 @@
 		#	"image": "https://cdn.brandfetch.io/idphtbxkYh/w/129/h/129/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B",
         #    "url":"https://phpsample2.wasmer.app/Prltv.php"
 		#},
- {
-      "name": "Mundial Futbol 2026",
-      "url": "https://raw.githubusercontent.com/af1Series1/Tritolgia/refs/heads/main/31.%20Mundial.w3u",
-      "image": "https://i.postimg.cc/B6CCsjzJ/logo6-10-202323.png",
-      "imageScale": "",
-      "info": ""
-    },
+# {
+#      "name": "Mundial Futbol 2026",
+#      "url": "https://raw.githubusercontent.com/af1Series1/Tritolgia/refs/heads/main/31.%20Mundial.w3u",
+#      "image": "https://i.postimg.cc/B6CCsjzJ/logo6-10-202323.png",
+#      "imageScale": "",
+#      "info": ""
+#    },
 {
 			"name": "AC3STR3AM L1G@",
 			"image": "https://i.postimg.cc/NLqjVwMQ/horus.png",
@@ -81,10 +81,15 @@
             #"url":"https://xaxproyect001.infinityfree.me/rrr/Atv.php"
 		},
 {
+			"name": "T.Palo",
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmozfIxIfg-31vc9lLlKI-cF7Jnt_QbRMZY6jwAifOVQ&s=10",
+			"url": "https://phpsample2.wasmer.app/tpalo_json.php"            
+		},
+{
 			"name": "B.loca",
 			"image": "https://cdn-icons-png.freepik.com/512/53/53264.png",
-			#"url": "https://phpsample2.wasmer.app/bloc.php"
-            "url":  "https://raw.githubusercontent.com/xax2/Listaxax/refs/heads/main/bloca.p"
+			"url": "https://phpsample2.wasmer.app/bloc.php"
+            #"url":  "https://raw.githubusercontent.com/xax2/Listaxax/refs/heads/main/bloca.p"
 		},
 {
 			"name": "sportz_online",
