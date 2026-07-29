@@ -86,6 +86,11 @@
 			"url": "https://phpsample2.wasmer.app/tpalo_json.php"            
 		},
 {
+			"name": "Dlive",
+			"image": "https://scontent-mad1-1.xx.fbcdn.net/v/t39.30808-1/370360922_122123661062001210_8645213964899256977_n.jpg?stp=c173.0.270.270a_dst-jpg_tt6&cstp=mx270x270&ctp=s200x200&_nc_cat=100&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=dVAcDImTNJ0Q7kNvwEvrqZ4&_nc_oc=AdoDbCVM4qk5V7zBD67M5E0s3WDTXUhirSRkrMtitg-w4vyqEGxCWYju1HaXDJvh5P4&_nc_zt=24&_nc_ht=scontent-mad1-1.xx&_nc_gid=V0Zs175nEib5rm8PJFs0nQ&_nc_ss=7b289&oh=00_AQDB6BKt5nLvXVn0KwC1QYipCFvnZb4fazYTMAwDtNskHQ&oe=6A701363",
+			"url": "https://phpsample2.wasmer.app/dlive_json.php"            
+		},
+{
 			"name": "B.loca",
 			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeWmcA_7Tcty2ZC1cRe6mPNP65zOQImVe1j0HRbVEfIQ&s",
 			"url": "https://phpsample2.wasmer.app/bloc.php"
