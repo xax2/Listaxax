@@ -97,9 +97,14 @@
             #"url":  "https://raw.githubusercontent.com/xax2/Listaxax/refs/heads/main/bloca.p"
 		},
 {
-			"name": "streamx-hd",
+			"name": "streamx-hd Canales",
 			"image": "https://cdn-icons-png.flaticon.com/512/994/994020.png",
 			"url": "https://phpsample2.wasmer.app/streamx-hd_json.php"            
+		},
+{
+			"name": "streamx-hd Eventos",
+			"image": "https://cdn-icons-png.flaticon.com/512/994/994020.png",
+			"url": "https://phpsample2.wasmer.app/streamx-hd_eventos_json.php"            
 		},
 
 {
