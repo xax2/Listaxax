@@ -91,6 +91,11 @@
 			"url": "https://phpsample2.wasmer.app/dlive_json.php"            
 		},
 {
+			"name": "Cable",
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXhTKnOMsGEO5RbVlCSMDvpy9nwMaaHDVK8-kCu_qEQw&s=10",
+			"url": "https://phpsample2.wasmer.app/format_json_cable.php"            
+		},
+{
 			"name": "B.loca",
 			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeWmcA_7Tcty2ZC1cRe6mPNP65zOQImVe1j0HRbVEfIQ&s",
 			"url": "https://phpsample2.wasmer.app/bloc.php"
