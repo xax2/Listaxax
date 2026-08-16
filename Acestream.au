@@ -8,9 +8,11 @@
 
         {
           "name": "MOVISTAR LaLiga (1080)(**)",
-          "info": "[e9f74]",
+          "info": "[4fd259]",
           "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
-          "url": "acestream://4b528d10eaad747ddf52251206177573ee3e9f74"
+          #"url": "acestream://4b528d10eaad747ddf52251206177573ee3e9f74"
+          "url": "acestream://3ce95bc9d6fc63676d828bb2cfc7a1f1854fd259"
+
         },
 {
           "name": "MOVISTAR LaLiga (1080)",
