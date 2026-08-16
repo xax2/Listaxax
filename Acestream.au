@@ -22,9 +22,11 @@
         },
         {
           "name": "DAZN LaLiga (1080)(*)",
-          "info": "[7d889]",
+          "info": "[6a57a51f]",
           "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
-          "url": "acestream://cc108ae39f92c48f6c946763047bd1c9b7b7d889"
+          #"url": "acestream://cc108ae39f92c48f6c946763047bd1c9b7b7d889"
+         "url": "acestream://7f9857c45764ef2c7cdfb619b89db3056a57a51f"
+
         },
         {
           "name": "M. Liga de Campeones 1 (1080)(*)",
