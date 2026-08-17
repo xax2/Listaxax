@@ -81,6 +81,12 @@
 #https://raw.githubusercontent.com/af1Series1/Tritolgia/refs/heads/main/05.2%20Dazn%20LaLiga.w3u
 #https://raw.githubusercontent.com/af1Series1/Tritolgia/refs/heads/main/06.%20Liga%20de%20Campeones.w3u
 		},
+
+{
+			"name": "UI.P", 
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5jQi4O6fte6UmfoyELZT3cRzf6-3wSmqPychfDB9yVQ&s",
+            "url":"https://phpsample2.wasmer.app/uip.php"
+		},
 {
 			"name": "A.DepTV Evento", 
 			"image": "https://i.postimg.cc/1tmMDh23/Adeptv.jpg",
