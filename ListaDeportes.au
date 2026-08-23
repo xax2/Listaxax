@@ -16,17 +16,17 @@
         },
 
 {
-        "name": "333 proba",
-        "info": "",        
-        "image": "",
-        "userAgent": "UIPlayer/1.3.5",
-        "language": "es-ES",
-        "url": "https://xaxproyect001.free.nf/public_html/print_headers.php",        
-        	"httpHeaders": {
-		    "Referer": "https://web-autorizada.com",
-		    "Accept-Language": "es-ES,es;q=0.9"
-		  }
-        },
+  "name": "333 prba",
+  "info": "",        
+  "image": "",
+  "userAgent": "UIPlayer/1.3.5",
+"language": "es-ES",
+  "url": "https://xaxproyect001.free.nf/public_html/print_headers.php",        
+  "httpHeaders": {
+    "Referer": "https://web-autorizada.com",
+    "Accept-Language": "es-ES,es;q=0.9"
+  }
+},
 
 {
         "name": "F1",
