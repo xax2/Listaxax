@@ -3,7 +3,6 @@
 	"author": "",
 	"url": "",
 	"image": "https://cutt.ly/GtbwFLlW",
-    #https://af1c1onados.stark9.workers.dev/mister.voluntos.w3u
 	"groups": [
 		{
 			"name": "FUTBOL",
@@ -31,6 +30,18 @@
           "url": "acestream://3ce95bc9d6fc63676d828bb2cfc7a1f1854fd259"
 
         },
+		 {
+       "name": "M+ La Liga",
+      "info": "[Online]",
+      "online": "true",
+      "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "https://dlstreams.st/",
+      "url": "https://dlstreams.st/watch.php?id=84",
+      "embed": "",
+      "isHost": "True"
+				},
+
 
  #{
   #         "name": "MOVISTAR LaLiga (1080)",
@@ -73,6 +84,30 @@
 				"image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
 				"url": "acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920"
 				},
+					 {
+      "name": "Dazn liga ",
+      "info": "[online]",
+      "online": "true",
+      "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "https://dlstreams.st/",
+      "url": "https://dlstreams.st/watch.php?id=538",
+      "embed": "",
+      "isHost": "true"
+              },
+{
+				"name": "M. Liga de Campeones [1080] ",
+				"info": "1",
+				"image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+				"url": "acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9"
+				},
+				{
+				"name": "M. Liga de Campeones [1080]",
+				"info": "2",
+				"image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+				"url": "acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920"
+				},
+
 
         {
           "name": "M. Liga de Campeones 1 (1080)(*)",
@@ -81,6 +116,22 @@
           #"url": "acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920"
           "url": "acestream://4416843c96b7f7a1bc55c476091a60fff0922bc7"
         },
+		
+                {
+        "name": "M+ LIGA DE CAMPEONES 1",
+      "info": "[online]",
+      "online": "true",
+      "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "https://asiria.is/",
+      "url": "https://asiria.is/movistarcampeones.php",
+      "embed": "True",
+      "isHost": ""
+				 
+                
+                },
+
+		
 	  {
        "name": "ESPN Deportes",
       "info": "[Online]",
@@ -121,7 +172,20 @@
 				"info": "(2)",
 				"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
 				"url": "acestream://acestream://d5cf2dfa4fb4165ce58bf9db815088c28fec7711"
+				},
+				
+                {
+		"name": "DAZN F1",
+      "info": "[Online]",
+      "online": "true",
+      "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "https://dlstreams.st/",
+      "url": "https://dlstreams.st/watch.php?id=537",
+      "embed": "",
+      "isHost": "True"
 				}
+
 
 			]
 		},
