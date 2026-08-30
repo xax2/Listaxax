@@ -8,12 +8,13 @@
 		{
 			"name": "FUTBOL",
 			"image": "",
-			"stations": [          
-            #https://af1c1onados.stark9.workers.dev/mister.voluntos.w3u
-			#old
-			#"url": "acestream://4b528d10eaad747ddf52251206177573ee3e9f74"
-			#"url": "acestream://cc108ae39f92c48f6c946763047bd1c9b7b7d889"
-			#"url": "acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920"
+			"stations": [   
+            #  
+            # https://af1c1onados.stark9.workers.dev/mister.voluntos.w3u
+			# old
+			# "url": "acestream://4b528d10eaad747ddf52251206177573ee3e9f74"
+			# "url": "acestream://cc108ae39f92c48f6c946763047bd1c9b7b7d889"
+			# "url": "acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920"
 #{
 #         "name": "MOVISTAR LaLiga (1080)",
 #         "info": "PLAYER EXTERNO",
