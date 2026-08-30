@@ -3,6 +3,7 @@
 	"author": "",
 	"url": "",
 	"image": "https://cutt.ly/GtbwFLlW",
+     #https://af1c1onados.stark9.workers.dev/mister.voluntos.w3u
 	"groups": [
 		{
 			"name": "FUTBOL",
@@ -19,17 +20,18 @@
 				"info": "2",
 				"image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
 				"url": "acestream://3ce95bc9d6fc63676d828bb2cfc7a1f1854fd259"
+				}
+	           {
+				"name": "M+ LaLiga Tv [1080]",
+				"info": "3",
+				"image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+				"url": "acestream://0b5f802f2de6488b4023d0f05195486e19d81ed7"
 				},
 
 
-        {
-          "name": "MOVISTAR LaLiga (1080)(**)",
-          "info": "[4fd259]",
-          "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
-          #"url": "acestream://4b528d10eaad747ddf52251206177573ee3e9f74"
-          "url": "acestream://3ce95bc9d6fc63676d828bb2cfc7a1f1854fd259"
 
-        },
+          #"url": "acestream://4b528d10eaad747ddf52251206177573ee3e9f74"
+
 		 {
        "name": "M+ La Liga",
       "info": "[Online]",
@@ -72,6 +74,17 @@
          "url": "acestream://7f9857c45764ef2c7cdfb619b89db3056a57a51f"
 
         },
+							 {
+      "name": "Dazn liga ",
+      "info": "[online]",
+      "online": "true",
+      "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "https://dlstreams.st/",
+      "url": "https://dlstreams.st/watch.php?id=538",
+      "embed": "",
+      "isHost": "true"
+              },
 	{
 				"name": "M. Liga de Campeones [1080] ",
 				"info": "1",
@@ -84,30 +97,6 @@
 				"image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
 				"url": "acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920"
 				},
-					 {
-      "name": "Dazn liga ",
-      "info": "[online]",
-      "online": "true",
-      "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
-      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "https://dlstreams.st/",
-      "url": "https://dlstreams.st/watch.php?id=538",
-      "embed": "",
-      "isHost": "true"
-              },
-{
-				"name": "M. Liga de Campeones [1080] ",
-				"info": "1",
-				"image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
-				"url": "acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9"
-				},
-				{
-				"name": "M. Liga de Campeones [1080]",
-				"info": "2",
-				"image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
-				"url": "acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920"
-				},
-
 
         {
           "name": "M. Liga de Campeones 1 (1080)(*)",
